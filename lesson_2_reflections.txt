@@ -1,0 +1,9 @@
+When you initialize a repository using git init,
+terminal creates an empty git repository object in the
+directory you’re in. Then you can use git and save commits
+to track different versions of your projects.
+
+The staging area is a place sole for files that are
+going into the next commit. It allows the programmer
+to get their ducks in order before creating
+a commit.
