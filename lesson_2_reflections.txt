@@ -7,3 +7,7 @@ The staging area is a place sole for files that are
 going into the next commit. It allows the programmer
 to get their ducks in order before creating
 a commit.
+
+The staging area can be manipulated to only include
+one logical difference at a time, even if multiple
+files have been edited.
