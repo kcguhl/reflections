@@ -1,0 +1,41 @@
+Using diff helped to differentiate between
+two versions of a file by marking the lines that
+differed with a minus sign or a plus sign.
+If I were using a Windows computer, diff would have
+shown only the lines that were different and 
+their surrounding lines with different formatting.
+
+If something accidentally gets deleted or
+for some reason someone wants to go back to a
+previous version of their work, version control
+will save someone from having to rewrite something
+that they’ve already written.
+
+The pros of manually committing are that each 
+version will be clearly labeled and a complete,
+working version. There won’t be as much clutter
+and it’s easy to find which version one is looking
+for. The first con is that the programmer must remember
+to save regularly on their own. If the data is lost
+before a commit is created, time is wasted rewriting
+code.
+
+Each kind of text editor is made for different core
+uses. Google Doc users usually work on one document
+at a time, so the ability to save multiple files
+in a single commit isn’t necessary for the program.
+In programming, this feature is very useful because
+programs can be made up of many files and languages.
+
+The command git log will allow the user to see a summary
+of all saved commits, including the commit IDs. Then
+git diff will compare two IDs and show the user all
+differences between the files.
+
+Version control lets you make changes without having
+to worry about breaking anything. You can always go
+back to how things were before.
+
+Now that I have my workplace set up, I’d like to go
+back and continue my other class. But I may stick around
+here a little more first.
