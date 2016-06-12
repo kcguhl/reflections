@@ -1,0 +1,1 @@
+Remote repositories are useful for sharing work between people and computers.
